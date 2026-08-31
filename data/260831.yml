@@ -1,0 +1,66 @@
+about:
+  description: Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+  license: Apache-2.0
+  homepage: https://linkerd.io
+  head: 399c6e3
+  archived: false
+  latestVersion: edge-26.8.4
+  collectedAt: 2026-08-31T06:15:43Z
+timeline:
+  created: 2017-12-04
+  lastCommit: 2026-08-26
+  lastRelease: 2026-08-25
+popularity:
+  star: 11484
+  watcher: 193
+  fork: 1378
+  release: 447
+  contributor: 392
+  pullRequest: 1406
+  issue: 4058
+language:
+  Go: 3091155
+  Rust: 1624138
+  JavaScript: 427558
+  Shell: 68206
+  Go Template: 26819
+  Makefile: 20400
+  CSS: 6326
+  Dockerfile: 5954
+  HTML: 1271
+  Mustache: 436
+  Batchfile: 417
+totalLine: 5272680
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 4
+    mergedPR: 37
+    openPR: 17
+    closedIssue: 2
+    openIssue: 10
+    commit: 33
+  last90d:
+    since: 2026-06-02
+    release: 9
+    mergedPR: 206
+    openPR: 23
+    closedIssue: 4
+    openIssue: 15
+    commit: 210
+  last180d:
+    since: 2026-03-04
+    release: 21
+    mergedPR: 463
+    openPR: 28
+    closedIssue: 24
+    openIssue: 19
+    commit: 441
+  last360d:
+    since: 2025-09-05
+    release: 42
+    mergedPR: 872
+    openPR: 29
+    closedIssue: 55
+    openIssue: 21
+    commit: 845
