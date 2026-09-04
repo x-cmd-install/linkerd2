@@ -7,7 +7,7 @@ about:
   head: 2946a07
   archived: false
   latestVersion: edge-26.8.4
-  collectedAt: 2026-09-04T20:08:20Z
+  collectedAt: 2026-09-04T20:38:18Z
 timeline:
   created: 2017-12-04
   lastCommit: 2026-09-04
@@ -91,7 +91,7 @@ total:
   commit: 9140
 ---
 path: /home/runner/.x-repo/github.com/linkerd/linkerd2
-collectedAt: 2026-09-04T20:08:25Z
+collectedAt: 2026-09-04T20:38:25Z
 loc:
   Go:
     code: 98750
