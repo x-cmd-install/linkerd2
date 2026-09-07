@@ -5,15 +5,15 @@ about:
   head: 2946a07
   archived: false
   latestVersion: "edge-26.9.1"
-  collectedAt: 2026-09-07T05:24:05Z
+  collectedAt: 2026-09-07T19:00:52Z
 timeline:
   created: 2017-12-04
   lastCommit: 2026-09-04
   lastRelease: 2026-09-04
 popularity:
-  star: 11487
+  star: 11486
   watcher: 195
-  fork: 1377
+  fork: 1378
   release: 448
   contributor: 392
   pullRequest: 10687
@@ -89,7 +89,7 @@ total:
   commit: 9140
 ---
 path: /home/runner/.x-repo/github.com/linkerd/linkerd2
-collectedAt: 2026-09-07T05:24:20Z
+collectedAt: 2026-09-07T19:01:04Z
 loc:
   Go:
     code: 98750
@@ -329,7 +329,7 @@ checks:
       - 'Info:   0 out of  23 containerImage dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T05:24:20+00:00
+  collectedAt: 2026-09-07T19:01:05+00:00
   platform:
     darwin/arm64:
       name:  linkerd2-cli-edge-26.9.1-darwin-arm64
