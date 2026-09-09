@@ -7,7 +7,7 @@ about:
   latestVersion: "edge-26.9.1"
   latestRelease: "edge-26.9.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:28:19Z
+  collectedAt: 2026-09-09T19:52:26Z
 timeline:
   created: 2017-12-04
   lastCommit: 2026-09-04
@@ -17,11 +17,11 @@ timeline:
 popularity:
   star: 11487
   watcher: 195
-  fork: 1377
+  fork: 1378
   release: 448
   contributor: 392
-  pullRequest: 10687
-  issue: 4061
+  pullRequest: 10688
+  issue: 4062
 language:
   Go: 3093114
   Rust: 1624138
@@ -40,60 +40,60 @@ recent:
     since: 2026-08-10
     release: 4
     mergedPR: 45
-    openPR: 20
+    openPR: 21
     closedIssue: 1
-    openIssue: 10
+    openIssue: 11
     commit: 50
   last60d:
     since: 2026-07-11
     release: 7
     mergedPR: 119
-    openPR: 25
+    openPR: 26
     closedIssue: 4
-    openIssue: 15
+    openIssue: 16
     commit: 115
   last90d:
     since: 2026-06-11
     release: 9
     mergedPR: 200
-    openPR: 26
+    openPR: 27
     closedIssue: 5
-    openIssue: 16
+    openIssue: 17
     commit: 202
   last180d:
     since: 2026-03-13
     release: 20
     mergedPR: 439
-    openPR: 30
+    openPR: 31
     closedIssue: 22
-    openIssue: 21
+    openIssue: 22
     commit: 441
   last360d:
     since: 2025-09-14
     release: 42
     mergedPR: 859
-    openPR: 32
+    openPR: 33
     closedIssue: 56
-    openIssue: 23
+    openIssue: 24
     commit: 841
   last720d:
     since: 2024-09-19
     release: 91
     mergedPR: 1968
-    openPR: 32
+    openPR: 33
     closedIssue: 160
-    openIssue: 30
+    openIssue: 31
     commit: 1977
 total:
   release: 448
   mergedPR: 9278
-  openPR: 32
+  openPR: 33
   closedIssue: 3876
-  openIssue: 185
+  openIssue: 186
   commit: 9140
 ---
 path: /home/runner/.x-repo/github.com/linkerd/linkerd2
-collectedAt: 2026-09-09T05:28:33Z
+collectedAt: 2026-09-09T19:52:40Z
 loc:
   Go:
     code: 98750
