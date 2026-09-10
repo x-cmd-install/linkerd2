@@ -7,7 +7,7 @@ about:
   latestVersion: "edge-26.9.1"
   latestRelease: "edge-26.9.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:35:45Z
+  collectedAt: 2026-09-10T17:26:08Z
 timeline:
   created: 2017-12-04
   lastCommit: 2026-09-04
@@ -93,7 +93,7 @@ total:
   commit: 9140
 ---
 path: /home/runner/.x-repo/github.com/linkerd/linkerd2
-collectedAt: 2026-09-10T05:36:02Z
+collectedAt: 2026-09-10T17:26:20Z
 loc:
   Go:
     code: 98750
