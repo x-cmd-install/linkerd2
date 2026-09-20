@@ -4,7 +4,7 @@
 
 Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 
-![linkerd2](https://repo.x-cmd.io/linkerd2.svg)
+[![x-cmd/install — linkerd2 Code Quality Monitoring Repo Card](https://repo.x-cmd.io/linkerd2.svg)](https://x-cmd.com/install/linkerd2)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,496 · **Forks**: 1,378 · **Open issues**: 4,065 · **Contributors**: 393
+- **Stars**: 11,497 · **Forks**: 1,378 · **Open issues**: 4,065 · **Contributors**: 393
 
 ## Totals (cumulative)
 
-- **Releases**: 450 · **Merged PRs**: 9298 · **Open PRs**: 35 · **Closed issues**: 3877 · **Open issues**: 188 · **Commits**: 9160
+- **Releases**: 450 · **Merged PRs**: 9298 · **Open PRs**: 36 · **Closed issues**: 3878 · **Open issues**: 187 · **Commits**: 9160
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 5 | 53 | 21 | 2 | 11 | 47 |
-| last60d | 2026-07-20 | 9 | 113 | 24 | 5 | 16 | 124 |
-| 90d | 2026-06-20 | 9 | 200 | 28 | 6 | 19 | 211 |
-| last180d | 2026-03-22 | 21 | 425 | 33 | 21 | 24 | 430 |
-| 360d | 2025-09-23 | 43 | 845 | 35 | 56 | 26 | 843 |
-| last720d | 2024-09-28 | 92 | 1972 | 35 | 161 | 33 | 1979 |
+| 30d | 2026-08-21 | 5 | 41 | 21 | 3 | 10 | 47 |
+| last60d | 2026-07-22 | 8 | 107 | 25 | 5 | 14 | 124 |
+| 90d | 2026-06-22 | 9 | 192 | 29 | 7 | 18 | 211 |
+| last180d | 2026-03-24 | 21 | 417 | 34 | 21 | 23 | 430 |
+| 360d | 2025-09-25 | 43 | 841 | 36 | 57 | 25 | 843 |
+| last720d | 2024-09-30 | 92 | 1967 | 36 | 160 | 32 | 1979 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for linkerd2 lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:39:05Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:39:02Z._
