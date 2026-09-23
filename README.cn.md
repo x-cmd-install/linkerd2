@@ -4,7 +4,7 @@
 
 Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 
-[![x-cmd/install — linkerd2 Code Quality Monitoring Repo Card](https://repo.x-cmd.io/linkerd2.svg?lang=zh)](https://x-cmd.com/install/linkerd2)
+[![x-cmd/install — linkerd2 Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/linkerd2.svg?lang=zh)](https://x-cmd.com/install/linkerd2)
 
 ## 安装
 
@@ -58,12 +58,12 @@ x install linkerd2
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 41 | 24 | 3 | 10 | 38 |
-| last60d | 2026-07-24 | 8 | 93 | 28 | 5 | 14 | 87 |
-| 90d | 2026-06-24 | 9 | 189 | 32 | 7 | 18 | 194 |
-| last180d | 2026-03-26 | 21 | 416 | 37 | 20 | 23 | 420 |
-| 360d | 2025-09-27 | 42 | 834 | 39 | 57 | 24 | 815 |
-| last720d | 2024-10-02 | 92 | 1954 | 39 | 161 | 31 | 1968 |
+| 30d | 2026-08-24 | 4 | 32 | 24 | 3 | 10 | 38 |
+| last60d | 2026-07-25 | 7 | 92 | 28 | 5 | 14 | 87 |
+| 90d | 2026-06-25 | 9 | 185 | 32 | 6 | 18 | 194 |
+| last180d | 2026-03-27 | 21 | 412 | 37 | 20 | 23 | 420 |
+| 360d | 2025-09-28 | 42 | 831 | 39 | 57 | 24 | 815 |
+| last720d | 2024-10-03 | 92 | 1953 | 39 | 160 | 31 | 1960 |
 
 ## Release 资产
 
@@ -84,4 +84,4 @@ linkerd2 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:06:43Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:44:04Z._

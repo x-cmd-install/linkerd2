@@ -4,7 +4,7 @@
 
 Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 
-[![x-cmd/install — linkerd2 Code Quality Monitoring Repo Card](https://repo.x-cmd.io/linkerd2.svg)](https://x-cmd.com/install/linkerd2)
+[![x-cmd/install — linkerd2 Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/linkerd2.svg)](https://x-cmd.com/install/linkerd2)
 
 ## Install
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 41 | 24 | 3 | 10 | 38 |
-| last60d | 2026-07-24 | 8 | 93 | 28 | 5 | 14 | 87 |
-| 90d | 2026-06-24 | 9 | 189 | 32 | 7 | 18 | 194 |
-| last180d | 2026-03-26 | 21 | 416 | 37 | 20 | 23 | 420 |
-| 360d | 2025-09-27 | 42 | 834 | 39 | 57 | 24 | 815 |
-| last720d | 2024-10-02 | 92 | 1954 | 39 | 161 | 31 | 1968 |
+| 30d | 2026-08-24 | 4 | 32 | 24 | 3 | 10 | 38 |
+| last60d | 2026-07-25 | 7 | 92 | 28 | 5 | 14 | 87 |
+| 90d | 2026-06-25 | 9 | 185 | 32 | 6 | 18 | 194 |
+| last180d | 2026-03-27 | 21 | 412 | 37 | 20 | 23 | 420 |
+| 360d | 2025-09-28 | 42 | 831 | 39 | 57 | 24 | 815 |
+| last720d | 2024-10-03 | 92 | 1953 | 39 | 160 | 31 | 1960 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for linkerd2 lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:06:43Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:44:03Z._
