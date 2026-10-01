@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `edge-26.9.3` (2026-09-16)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-10-01
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 11,505 · **Forks**: 1,381 · **Open issues**: 4,066 · **Contributors**: 395
+- **Stars**: 11,506 · **Forks**: 1,381 · **Open issues**: 4,066 · **Contributors**: 395
 
 ## Totals (cumulative)
 
-- **Releases**: 450 · **Merged PRs**: 9299 · **Open PRs**: 40 · **Closed issues**: 3880 · **Open issues**: 186 · **Commits**: 9161
+- **Releases**: 450 · **Merged PRs**: 9320 · **Open PRs**: 28 · **Closed issues**: 3880 · **Open issues**: 186 · **Commits**: 9182
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 3 | 26 | 24 | 4 | 3 | 36 |
-| last60d | 2026-08-01 | 7 | 77 | 28 | 6 | 14 | 72 |
-| 90d | 2026-07-02 | 9 | 169 | 33 | 7 | 18 | 170 |
-| last180d | 2026-04-03 | 20 | 398 | 38 | 20 | 22 | 395 |
-| 360d | 2025-10-05 | 41 | 813 | 40 | 58 | 24 | 795 |
-| last720d | 2024-10-10 | 91 | 1928 | 40 | 159 | 30 | 1942 |
+| 30d | 2026-09-01 | 3 | 45 | 12 | 3 | 3 | 0 |
+| last60d | 2026-08-02 | 7 | 96 | 16 | 5 | 14 | 0 |
+| 90d | 2026-07-03 | 9 | 183 | 21 | 7 | 18 | 0 |
+| last180d | 2026-04-04 | 20 | 418 | 26 | 20 | 22 | 0 |
+| 360d | 2025-10-06 | 41 | 829 | 28 | 58 | 24 | 0 |
+| last720d | 2024-10-11 | 90 | 1949 | 28 | 156 | 30 | 1955 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for linkerd2 lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:16:41Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:27:48Z._
