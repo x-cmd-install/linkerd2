@@ -14,19 +14,19 @@ x install linkerd2
 
 ## 代码洞察
 
-合计: **237,793** 行代码（覆盖前 5 种语言、共 **1085** 个文件）。
+合计: **237,799** 行代码（覆盖前 5 种语言、共 **1085** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Go | 98,750 | 11,444 | 13,557 | 582 |
 | Yaml | 42,617 | 1,166 | 1,525 | 241 |
 | Json | 41,649 | 0 | 3 | 42 |
-| Rust | 39,557 | 1,999 | 4,027 | 150 |
+| Rust | 39,563 | 2,003 | 4,028 | 150 |
 | Jsx | 10,425 | 193 | 1,276 | 70 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **8.2 / 10**
+总评分: **8 / 10**
 
 评分最低的几项:
 
@@ -42,38 +42,38 @@ x install linkerd2
 
 ## 发布
 
-- **最新版本**: `edge-26.9.3` (2026-09-16)
-- **最近提交**: 2026-10-02
+- **最新版本**: `edge-26.10.1` (2026-10-05)
+- **最近提交**: 2026-10-05
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 11,507 · **Fork**: 1,382 · **开放 issue**: 4,067 · **贡献者**: 394
+- **Star**: 11,508 · **Fork**: 1,381 · **开放 issue**: 4,067 · **贡献者**: 394
 
 ## 累计统计
 
-- **发布数**: 450 · **已合并 PR**: 9321 · **开放 PR**: 32 · **已关闭 issue**: 3881 · **开放 issue**: 186 · **提交数**: 9184
+- **发布数**: 451 · **已合并 PR**: 9322 · **开放 PR**: 32 · **已关闭 issue**: 3881 · **开放 issue**: 186 · **提交数**: 9185
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 2 | 43 | 18 | 3 | 3 | 43 |
-| last60d | 2026-08-06 | 6 | 91 | 22 | 4 | 12 | 94 |
-| 90d | 2026-07-07 | 9 | 175 | 27 | 7 | 18 | 171 |
-| last180d | 2026-04-08 | 20 | 408 | 31 | 18 | 23 | 399 |
-| 360d | 2025-10-10 | 40 | 809 | 32 | 56 | 25 | 797 |
-| last720d | 2024-10-15 | 90 | 1937 | 32 | 156 | 30 | 1955 |
+| 30d | 2026-09-06 | 3 | 39 | 18 | 2 | 3 | 0 |
+| last60d | 2026-08-07 | 7 | 91 | 22 | 4 | 12 | 0 |
+| 90d | 2026-07-08 | 10 | 171 | 27 | 7 | 18 | 0 |
+| last180d | 2026-04-09 | 21 | 402 | 31 | 17 | 23 | 0 |
+| 360d | 2025-10-11 | 41 | 810 | 32 | 56 | 25 | 0 |
+| last720d | 2024-10-16 | 91 | 1933 | 32 | 156 | 30 | 1945 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [linkerd2-cli-edge-26.9.3-darwin](https://github.com/linkerd/linkerd2/releases/download/edge-26.9.3/linkerd2-cli-edge-26.9.3-darwin) | 88.8 MiB | `native/darwin/x64` |
-| [linkerd2-cli-edge-26.9.3-darwin-arm64](https://github.com/linkerd/linkerd2/releases/download/edge-26.9.3/linkerd2-cli-edge-26.9.3-darwin-arm64) | 84.0 MiB | `native/darwin/arm64` |
-| [linkerd2-cli-edge-26.9.3-linux-amd64](https://github.com/linkerd/linkerd2/releases/download/edge-26.9.3/linkerd2-cli-edge-26.9.3-linux-amd64) | 86.9 MiB | `native/linux/x64` |
-| [linkerd2-cli-edge-26.9.3-linux-arm64](https://github.com/linkerd/linkerd2/releases/download/edge-26.9.3/linkerd2-cli-edge-26.9.3-linux-arm64) | 81.6 MiB | `native/linux/arm64` |
-| [linkerd2-cli-edge-26.9.3-windows.exe](https://github.com/linkerd/linkerd2/releases/download/edge-26.9.3/linkerd2-cli-edge-26.9.3-windows.exe) | 89.1 MiB | `native/win/x64` |
+| [linkerd2-cli-edge-26.10.1-darwin](https://github.com/linkerd/linkerd2/releases/download/edge-26.10.1/linkerd2-cli-edge-26.10.1-darwin) | 88.8 MiB | `native/darwin/x64` |
+| [linkerd2-cli-edge-26.10.1-darwin-arm64](https://github.com/linkerd/linkerd2/releases/download/edge-26.10.1/linkerd2-cli-edge-26.10.1-darwin-arm64) | 84.0 MiB | `native/darwin/arm64` |
+| [linkerd2-cli-edge-26.10.1-linux-amd64](https://github.com/linkerd/linkerd2/releases/download/edge-26.10.1/linkerd2-cli-edge-26.10.1-linux-amd64) | 86.9 MiB | `native/linux/x64` |
+| [linkerd2-cli-edge-26.10.1-linux-arm64](https://github.com/linkerd/linkerd2/releases/download/edge-26.10.1/linkerd2-cli-edge-26.10.1-linux-arm64) | 81.6 MiB | `native/linux/arm64` |
+| [linkerd2-cli-edge-26.10.1-windows.exe](https://github.com/linkerd/linkerd2/releases/download/edge-26.10.1/linkerd2-cli-edge-26.10.1-windows.exe) | 89.1 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -84,4 +84,4 @@ linkerd2 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261005.yml` · 2026-10-05T06:20:25Z._
+_数据快照: `data/card/261006.yml` · 2026-10-06T07:11:30Z._
