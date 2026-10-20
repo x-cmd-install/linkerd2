@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,516 · **Forks**: 1,385 · **Open issues**: 4,070 · **Contributors**: 396
+- **Stars**: 11,517 · **Forks**: 1,390 · **Open issues**: 4,073 · **Contributors**: 396
 
 ## Totals (cumulative)
 
-- **Releases**: 451 · **Merged PRs**: 9328 · **Open PRs**: 44 · **Closed issues**: 3884 · **Open issues**: 186 · **Commits**: 9190
+- **Releases**: 451 · **Merged PRs**: 9328 · **Open PRs**: 46 · **Closed issues**: 3884 · **Open issues**: 189 · **Commits**: 9190
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 1 | 14 | 30 | 0 | 4 | 30 |
-| last60d | 2026-08-20 | 6 | 76 | 34 | 5 | 12 | 69 |
-| 90d | 2026-07-21 | 10 | 140 | 37 | 8 | 17 | 124 |
-| last180d | 2026-04-22 | 19 | 372 | 43 | 13 | 23 | 370 |
-| 360d | 2025-10-24 | 37 | 784 | 44 | 55 | 25 | 772 |
-| last720d | 2024-10-29 | 89 | 1899 | 44 | 153 | 30 | 1909 |
+| 30d | 2026-09-20 | 1 | 11 | 32 | 0 | 7 | 30 |
+| last60d | 2026-08-21 | 6 | 71 | 35 | 5 | 15 | 69 |
+| 90d | 2026-07-22 | 9 | 137 | 39 | 7 | 19 | 124 |
+| last180d | 2026-04-23 | 19 | 371 | 45 | 13 | 26 | 370 |
+| 360d | 2025-10-25 | 37 | 784 | 46 | 55 | 28 | 772 |
+| last720d | 2024-10-30 | 89 | 1897 | 46 | 152 | 33 | 1909 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for linkerd2 lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:15:00Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:28:30Z._
