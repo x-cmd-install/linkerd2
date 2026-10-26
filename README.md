@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 451 · **Merged PRs**: 9330 · **Open PRs**: 52 · **Closed issues**: 3884 · **Open issues**: 191 · **Commits**: 9192
+- **Releases**: 451 · **Merged PRs**: 9330 · **Open PRs**: 53 · **Closed issues**: 3884 · **Open issues**: 191 · **Commits**: 9192
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 1 | 10 | 38 | 0 | 9 | 32 |
-| last60d | 2026-08-26 | 4 | 63 | 41 | 5 | 14 | 71 |
-| 90d | 2026-07-27 | 8 | 116 | 45 | 7 | 21 | 126 |
-| last180d | 2026-04-28 | 18 | 359 | 51 | 12 | 28 | 372 |
-| 360d | 2025-10-30 | 36 | 771 | 52 | 54 | 30 | 774 |
-| last720d | 2024-11-04 | 88 | 1885 | 52 | 151 | 35 | 1896 |
+| 30d | 2026-09-26 | 1 | 10 | 39 | 0 | 9 | 9 |
+| last60d | 2026-08-27 | 4 | 63 | 42 | 5 | 13 | 69 |
+| 90d | 2026-07-28 | 8 | 116 | 46 | 7 | 21 | 112 |
+| last180d | 2026-04-29 | 18 | 358 | 52 | 12 | 28 | 360 |
+| 360d | 2025-10-31 | 36 | 770 | 53 | 54 | 30 | 771 |
+| last720d | 2024-11-05 | 88 | 1879 | 53 | 150 | 35 | 1896 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for linkerd2 lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:27:22Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:20:24Z._
