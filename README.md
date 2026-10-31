@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `edge-26.10.2` (2026-10-29)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-10-30
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 11,522 · **Forks**: 1,388 · **Open issues**: 4,075 · **Contributors**: 397
+- **Stars**: 11,521 · **Forks**: 1,388 · **Open issues**: 4,075 · **Contributors**: 397
 
 ## Totals (cumulative)
 
-- **Releases**: 452 · **Merged PRs**: 9337 · **Open PRs**: 53 · **Closed issues**: 3885 · **Open issues**: 190 · **Commits**: 9199
+- **Releases**: 452 · **Merged PRs**: 9340 · **Open PRs**: 50 · **Closed issues**: 3885 · **Open issues**: 190 · **Commits**: 9202
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 2 | 15 | 39 | 1 | 7 | 16 |
-| last60d | 2026-08-31 | 5 | 64 | 41 | 6 | 9 | 76 |
-| 90d | 2026-08-01 | 9 | 115 | 45 | 8 | 20 | 119 |
-| last180d | 2026-05-03 | 18 | 360 | 51 | 12 | 27 | 367 |
-| 360d | 2025-11-04 | 37 | 774 | 53 | 54 | 29 | 778 |
-| last720d | 2024-11-09 | 88 | 1872 | 53 | 149 | 34 | 1878 |
+| 30d | 2026-10-01 | 2 | 17 | 31 | 1 | 7 | 19 |
+| last60d | 2026-09-01 | 5 | 65 | 38 | 5 | 9 | 79 |
+| 90d | 2026-08-02 | 9 | 116 | 42 | 7 | 20 | 122 |
+| last180d | 2026-05-04 | 18 | 362 | 48 | 12 | 27 | 370 |
+| 360d | 2025-11-05 | 37 | 775 | 50 | 54 | 29 | 781 |
+| last720d | 2024-11-10 | 87 | 1873 | 50 | 149 | 34 | 1879 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for linkerd2 lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:29:52Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:20:06Z._
