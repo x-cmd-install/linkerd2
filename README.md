@@ -14,11 +14,11 @@ x install linkerd2
 
 ## Code insight
 
-Total: **237,949** lines of code across **1085** files in the top 5 languages.
+Total: **237,980** lines of code across **1085** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 98,821 | 11,446 | 13,567 | 582 |
+| Go | 98,852 | 11,449 | 13,567 | 582 |
 | Yaml | 42,617 | 1,166 | 1,525 | 241 |
 | Json | 41,649 | 0 | 3 | 42 |
 | Rust | 39,635 | 2,024 | 4,039 | 150 |
@@ -42,38 +42,38 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `edge-26.10.2` (2026-10-29)
-- **Last commit**: 2026-10-30
+- **Latest**: `edge-26.11.1` (2026-11-02)
+- **Last commit**: 2026-11-03
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 11,524 · **Forks**: 1,388 · **Open issues**: 4,075 · **Contributors**: 397
+- **Stars**: 11,522 · **Forks**: 1,388 · **Open issues**: 4,076 · **Contributors**: 398
 
 ## Totals (cumulative)
 
-- **Releases**: 452 · **Merged PRs**: 9340 · **Open PRs**: 51 · **Closed issues**: 3888 · **Open issues**: 187 · **Commits**: 9202
+- **Releases**: 453 · **Merged PRs**: 9342 · **Open PRs**: 52 · **Closed issues**: 3889 · **Open issues**: 187 · **Commits**: 9204
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 2 | 15 | 32 | 1 | 7 | 15 |
-| last60d | 2026-09-03 | 5 | 63 | 40 | 5 | 9 | 61 |
-| 90d | 2026-08-04 | 8 | 112 | 44 | 6 | 20 | 113 |
-| last180d | 2026-05-06 | 18 | 354 | 49 | 14 | 25 | 350 |
-| 360d | 2025-11-07 | 36 | 764 | 51 | 56 | 26 | 754 |
-| last720d | 2024-11-12 | 87 | 1861 | 51 | 150 | 31 | 1872 |
+| 30d | 2026-10-04 | 3 | 17 | 29 | 2 | 7 | 17 |
+| last60d | 2026-09-04 | 6 | 64 | 41 | 6 | 9 | 63 |
+| 90d | 2026-08-05 | 9 | 112 | 45 | 7 | 19 | 115 |
+| last180d | 2026-05-07 | 19 | 354 | 50 | 15 | 25 | 352 |
+| 360d | 2025-11-08 | 37 | 766 | 52 | 57 | 26 | 756 |
+| last720d | 2024-11-13 | 88 | 1860 | 52 | 150 | 31 | 1870 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [linkerd2-cli-edge-26.10.2-darwin](https://github.com/linkerd/linkerd2/releases/download/edge-26.10.2/linkerd2-cli-edge-26.10.2-darwin) | 88.8 MiB | `native/darwin/x64` |
-| [linkerd2-cli-edge-26.10.2-darwin-arm64](https://github.com/linkerd/linkerd2/releases/download/edge-26.10.2/linkerd2-cli-edge-26.10.2-darwin-arm64) | 84.0 MiB | `native/darwin/arm64` |
-| [linkerd2-cli-edge-26.10.2-linux-amd64](https://github.com/linkerd/linkerd2/releases/download/edge-26.10.2/linkerd2-cli-edge-26.10.2-linux-amd64) | 87.0 MiB | `native/linux/x64` |
-| [linkerd2-cli-edge-26.10.2-linux-arm64](https://github.com/linkerd/linkerd2/releases/download/edge-26.10.2/linkerd2-cli-edge-26.10.2-linux-arm64) | 81.6 MiB | `native/linux/arm64` |
-| [linkerd2-cli-edge-26.10.2-windows.exe](https://github.com/linkerd/linkerd2/releases/download/edge-26.10.2/linkerd2-cli-edge-26.10.2-windows.exe) | 89.1 MiB | `native/win/x64` |
+| [linkerd2-cli-edge-26.11.1-darwin](https://github.com/linkerd/linkerd2/releases/download/edge-26.11.1/linkerd2-cli-edge-26.11.1-darwin) | 88.8 MiB | `native/darwin/x64` |
+| [linkerd2-cli-edge-26.11.1-darwin-arm64](https://github.com/linkerd/linkerd2/releases/download/edge-26.11.1/linkerd2-cli-edge-26.11.1-darwin-arm64) | 84.0 MiB | `native/darwin/arm64` |
+| [linkerd2-cli-edge-26.11.1-linux-amd64](https://github.com/linkerd/linkerd2/releases/download/edge-26.11.1/linkerd2-cli-edge-26.11.1-linux-amd64) | 87.0 MiB | `native/linux/x64` |
+| [linkerd2-cli-edge-26.11.1-linux-arm64](https://github.com/linkerd/linkerd2/releases/download/edge-26.11.1/linkerd2-cli-edge-26.11.1-linux-arm64) | 81.6 MiB | `native/linux/arm64` |
+| [linkerd2-cli-edge-26.11.1-windows.exe](https://github.com/linkerd/linkerd2/releases/download/edge-26.11.1/linkerd2-cli-edge-26.11.1-windows.exe) | 89.1 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -84,4 +84,4 @@ Install metadata for linkerd2 lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:47:12Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:33:06Z._

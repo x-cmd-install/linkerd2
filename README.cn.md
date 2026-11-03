@@ -14,11 +14,11 @@ x install linkerd2
 
 ## 代码洞察
 
-合计: **237,949** 行代码（覆盖前 5 种语言、共 **1085** 个文件）。
+合计: **237,980** 行代码（覆盖前 5 种语言、共 **1085** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 98,821 | 11,446 | 13,567 | 582 |
+| Go | 98,852 | 11,449 | 13,567 | 582 |
 | Yaml | 42,617 | 1,166 | 1,525 | 241 |
 | Json | 41,649 | 0 | 3 | 42 |
 | Rust | 39,635 | 2,024 | 4,039 | 150 |
@@ -42,38 +42,38 @@ x install linkerd2
 
 ## 发布
 
-- **最新版本**: `edge-26.10.2` (2026-10-29)
-- **最近提交**: 2026-10-30
+- **最新版本**: `edge-26.11.1` (2026-11-02)
+- **最近提交**: 2026-11-03
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 11,524 · **Fork**: 1,388 · **开放 issue**: 4,075 · **贡献者**: 397
+- **Star**: 11,522 · **Fork**: 1,388 · **开放 issue**: 4,076 · **贡献者**: 398
 
 ## 累计统计
 
-- **发布数**: 452 · **已合并 PR**: 9340 · **开放 PR**: 51 · **已关闭 issue**: 3888 · **开放 issue**: 187 · **提交数**: 9202
+- **发布数**: 453 · **已合并 PR**: 9342 · **开放 PR**: 52 · **已关闭 issue**: 3889 · **开放 issue**: 187 · **提交数**: 9204
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 2 | 15 | 32 | 1 | 7 | 15 |
-| last60d | 2026-09-03 | 5 | 63 | 40 | 5 | 9 | 61 |
-| 90d | 2026-08-04 | 8 | 112 | 44 | 6 | 20 | 113 |
-| last180d | 2026-05-06 | 18 | 354 | 49 | 14 | 25 | 350 |
-| 360d | 2025-11-07 | 36 | 764 | 51 | 56 | 26 | 754 |
-| last720d | 2024-11-12 | 87 | 1861 | 51 | 150 | 31 | 1872 |
+| 30d | 2026-10-04 | 3 | 17 | 29 | 2 | 7 | 17 |
+| last60d | 2026-09-04 | 6 | 64 | 41 | 6 | 9 | 63 |
+| 90d | 2026-08-05 | 9 | 112 | 45 | 7 | 19 | 115 |
+| last180d | 2026-05-07 | 19 | 354 | 50 | 15 | 25 | 352 |
+| 360d | 2025-11-08 | 37 | 766 | 52 | 57 | 26 | 756 |
+| last720d | 2024-11-13 | 88 | 1860 | 52 | 150 | 31 | 1870 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [linkerd2-cli-edge-26.10.2-darwin](https://github.com/linkerd/linkerd2/releases/download/edge-26.10.2/linkerd2-cli-edge-26.10.2-darwin) | 88.8 MiB | `native/darwin/x64` |
-| [linkerd2-cli-edge-26.10.2-darwin-arm64](https://github.com/linkerd/linkerd2/releases/download/edge-26.10.2/linkerd2-cli-edge-26.10.2-darwin-arm64) | 84.0 MiB | `native/darwin/arm64` |
-| [linkerd2-cli-edge-26.10.2-linux-amd64](https://github.com/linkerd/linkerd2/releases/download/edge-26.10.2/linkerd2-cli-edge-26.10.2-linux-amd64) | 87.0 MiB | `native/linux/x64` |
-| [linkerd2-cli-edge-26.10.2-linux-arm64](https://github.com/linkerd/linkerd2/releases/download/edge-26.10.2/linkerd2-cli-edge-26.10.2-linux-arm64) | 81.6 MiB | `native/linux/arm64` |
-| [linkerd2-cli-edge-26.10.2-windows.exe](https://github.com/linkerd/linkerd2/releases/download/edge-26.10.2/linkerd2-cli-edge-26.10.2-windows.exe) | 89.1 MiB | `native/win/x64` |
+| [linkerd2-cli-edge-26.11.1-darwin](https://github.com/linkerd/linkerd2/releases/download/edge-26.11.1/linkerd2-cli-edge-26.11.1-darwin) | 88.8 MiB | `native/darwin/x64` |
+| [linkerd2-cli-edge-26.11.1-darwin-arm64](https://github.com/linkerd/linkerd2/releases/download/edge-26.11.1/linkerd2-cli-edge-26.11.1-darwin-arm64) | 84.0 MiB | `native/darwin/arm64` |
+| [linkerd2-cli-edge-26.11.1-linux-amd64](https://github.com/linkerd/linkerd2/releases/download/edge-26.11.1/linkerd2-cli-edge-26.11.1-linux-amd64) | 87.0 MiB | `native/linux/x64` |
+| [linkerd2-cli-edge-26.11.1-linux-arm64](https://github.com/linkerd/linkerd2/releases/download/edge-26.11.1/linkerd2-cli-edge-26.11.1-linux-arm64) | 81.6 MiB | `native/linux/arm64` |
+| [linkerd2-cli-edge-26.11.1-windows.exe](https://github.com/linkerd/linkerd2/releases/download/edge-26.11.1/linkerd2-cli-edge-26.11.1-windows.exe) | 89.1 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -84,4 +84,4 @@ linkerd2 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261102.yml` · 2026-11-02T06:47:12Z._
+_数据快照: `data/card/261103.yml` · 2026-11-03T07:33:07Z._
