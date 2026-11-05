@@ -14,7 +14,7 @@ x install linkerd2
 
 ## Code insight
 
-Total: **237,980** lines of code across **1085** files in the top 5 languages.
+Total: **237,983** lines of code across **1085** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `edge-26.11.1` (2026-11-02)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-04
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 11,521 · **Forks**: 1,387 · **Open issues**: 4,078 · **Contributors**: 398
+- **Stars**: 11,522 · **Forks**: 1,387 · **Open issues**: 4,078 · **Contributors**: 398
 
 ## Totals (cumulative)
 
-- **Releases**: 453 · **Merged PRs**: 9342 · **Open PRs**: 54 · **Closed issues**: 3889 · **Open issues**: 189 · **Commits**: 9204
+- **Releases**: 453 · **Merged PRs**: 9343 · **Open PRs**: 55 · **Closed issues**: 3889 · **Open issues**: 189 · **Commits**: 9205
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 3 | 17 | 30 | 2 | 9 | 17 |
-| last60d | 2026-09-05 | 5 | 64 | 42 | 6 | 11 | 63 |
-| 90d | 2026-08-06 | 9 | 112 | 46 | 7 | 20 | 115 |
-| last180d | 2026-05-08 | 19 | 352 | 52 | 15 | 26 | 352 |
-| 360d | 2025-11-09 | 37 | 766 | 54 | 57 | 28 | 756 |
-| last720d | 2024-11-14 | 88 | 1852 | 54 | 149 | 33 | 1865 |
+| 30d | 2026-10-06 | 2 | 18 | 31 | 2 | 9 | 18 |
+| last60d | 2026-09-06 | 5 | 60 | 43 | 5 | 11 | 64 |
+| 90d | 2026-08-07 | 9 | 112 | 47 | 7 | 20 | 116 |
+| last180d | 2026-05-09 | 19 | 353 | 52 | 14 | 26 | 353 |
+| 360d | 2025-11-10 | 37 | 762 | 55 | 57 | 28 | 757 |
+| last720d | 2024-11-15 | 87 | 1847 | 55 | 148 | 33 | 1859 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for linkerd2 lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:06:27Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:35:44Z._
