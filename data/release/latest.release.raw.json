@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 93141888,
       "digest": "sha256:e287cadee9fa18ae7ff9c41c709f3f89b714ff75ecc3825c2da5b927ab91e10a",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-11-02T18:44:08Z",
       "updated_at": "2026-11-02T18:44:12Z",
       "browser_download_url": "https://github.com/linkerd/linkerd2/releases/download/edge-26.11.1/linkerd2-cli-edge-26.11.1-darwin"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 88122882,
       "digest": "sha256:b9365c459bd727da48d633223e7eee4d3c93ec3cf2ac1f55b9befe79aaef79e4",
-      "download_count": 14,
+      "download_count": 19,
       "created_at": "2026-11-02T18:44:08Z",
       "updated_at": "2026-11-02T18:44:13Z",
       "browser_download_url": "https://github.com/linkerd/linkerd2/releases/download/edge-26.11.1/linkerd2-cli-edge-26.11.1-darwin-arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 91177122,
       "digest": "sha256:f69701bec37964905d1cb06097e201ddf71e136824c3817f9a94a405fcbb6a07",
-      "download_count": 398,
+      "download_count": 733,
       "created_at": "2026-11-02T18:44:08Z",
       "updated_at": "2026-11-02T18:44:13Z",
       "browser_download_url": "https://github.com/linkerd/linkerd2/releases/download/edge-26.11.1/linkerd2-cli-edge-26.11.1-linux-amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 85590178,
       "digest": "sha256:b91ca093a3f60c0760d56a48b28783f880f0e997a69388a8597f634d561574fc",
-      "download_count": 98,
+      "download_count": 190,
       "created_at": "2026-11-02T18:44:08Z",
       "updated_at": "2026-11-02T18:44:12Z",
       "browser_download_url": "https://github.com/linkerd/linkerd2/releases/download/edge-26.11.1/linkerd2-cli-edge-26.11.1-linux-arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 93412352,
       "digest": "sha256:a2247e9af46ecff361e8445c4491a5299e1ba281784231709ee5c5217a3b647e",
-      "download_count": 13,
+      "download_count": 17,
       "created_at": "2026-11-02T18:44:08Z",
       "updated_at": "2026-11-02T18:44:14Z",
       "browser_download_url": "https://github.com/linkerd/linkerd2/releases/download/edge-26.11.1/linkerd2-cli-edge-26.11.1-windows.exe"
