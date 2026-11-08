@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 2 | 23 | 27 | 2 | 10 | 24 |
-| last60d | 2026-09-08 | 5 | 56 | 43 | 5 | 12 | 70 |
-| 90d | 2026-08-09 | 9 | 117 | 47 | 7 | 21 | 122 |
-| last180d | 2026-05-11 | 19 | 347 | 51 | 14 | 27 | 359 |
-| 360d | 2025-11-12 | 37 | 763 | 54 | 55 | 30 | 763 |
-| last720d | 2024-11-17 | 87 | 1852 | 54 | 147 | 35 | 1858 |
+| 30d | 2026-10-09 | 2 | 22 | 27 | 2 | 9 | 24 |
+| last60d | 2026-09-09 | 5 | 56 | 42 | 4 | 12 | 70 |
+| 90d | 2026-08-10 | 9 | 116 | 47 | 7 | 21 | 122 |
+| last180d | 2026-05-12 | 19 | 346 | 51 | 14 | 26 | 359 |
+| 360d | 2025-11-13 | 37 | 759 | 54 | 55 | 30 | 763 |
+| last720d | 2024-11-18 | 87 | 1846 | 54 | 146 | 35 | 1858 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for linkerd2 lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:36:43Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:42:52Z._
