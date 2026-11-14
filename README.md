@@ -42,38 +42,38 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `edge-26.11.1` (2026-11-02)
-- **Last commit**: 2026-11-06
+- **Latest**: `edge-26.11.2` (2026-11-13)
+- **Last commit**: 2026-11-13
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 11,531 · **Forks**: 1,391 · **Open issues**: 4,080 · **Contributors**: 397
+- **Stars**: 11,531 · **Forks**: 1,393 · **Open issues**: 4,080 · **Contributors**: 397
 
 ## Totals (cumulative)
 
-- **Releases**: 453 · **Merged PRs**: 9347 · **Open PRs**: 57 · **Closed issues**: 3887 · **Open issues**: 193 · **Commits**: 9211
+- **Releases**: 454 · **Merged PRs**: 9348 · **Open PRs**: 61 · **Closed issues**: 3888 · **Open issues**: 192 · **Commits**: 9212
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 2 | 21 | 23 | 2 | 9 | 21 |
-| last60d | 2026-09-14 | 5 | 42 | 45 | 4 | 14 | 53 |
-| 90d | 2026-08-15 | 8 | 109 | 48 | 7 | 22 | 120 |
-| last180d | 2026-05-17 | 18 | 335 | 54 | 14 | 28 | 341 |
-| 360d | 2025-11-18 | 37 | 750 | 57 | 52 | 32 | 745 |
-| last720d | 2024-11-23 | 85 | 1822 | 57 | 140 | 36 | 1832 |
+| 30d | 2026-10-15 | 3 | 21 | 27 | 3 | 8 | 22 |
+| last60d | 2026-09-15 | 6 | 43 | 49 | 5 | 13 | 54 |
+| 90d | 2026-08-16 | 9 | 109 | 52 | 8 | 21 | 121 |
+| last180d | 2026-05-18 | 19 | 334 | 58 | 15 | 27 | 342 |
+| 360d | 2025-11-19 | 38 | 747 | 61 | 53 | 31 | 746 |
+| last720d | 2024-11-24 | 86 | 1819 | 61 | 141 | 35 | 1832 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [linkerd2-cli-edge-26.11.1-darwin](https://github.com/linkerd/linkerd2/releases/download/edge-26.11.1/linkerd2-cli-edge-26.11.1-darwin) | 88.8 MiB | `native/darwin/x64` |
-| [linkerd2-cli-edge-26.11.1-darwin-arm64](https://github.com/linkerd/linkerd2/releases/download/edge-26.11.1/linkerd2-cli-edge-26.11.1-darwin-arm64) | 84.0 MiB | `native/darwin/arm64` |
-| [linkerd2-cli-edge-26.11.1-linux-amd64](https://github.com/linkerd/linkerd2/releases/download/edge-26.11.1/linkerd2-cli-edge-26.11.1-linux-amd64) | 87.0 MiB | `native/linux/x64` |
-| [linkerd2-cli-edge-26.11.1-linux-arm64](https://github.com/linkerd/linkerd2/releases/download/edge-26.11.1/linkerd2-cli-edge-26.11.1-linux-arm64) | 81.6 MiB | `native/linux/arm64` |
-| [linkerd2-cli-edge-26.11.1-windows.exe](https://github.com/linkerd/linkerd2/releases/download/edge-26.11.1/linkerd2-cli-edge-26.11.1-windows.exe) | 89.1 MiB | `native/win/x64` |
+| [linkerd2-cli-edge-26.11.2-darwin](https://github.com/linkerd/linkerd2/releases/download/edge-26.11.2/linkerd2-cli-edge-26.11.2-darwin) | 88.8 MiB | `native/darwin/x64` |
+| [linkerd2-cli-edge-26.11.2-darwin-arm64](https://github.com/linkerd/linkerd2/releases/download/edge-26.11.2/linkerd2-cli-edge-26.11.2-darwin-arm64) | 84.0 MiB | `native/darwin/arm64` |
+| [linkerd2-cli-edge-26.11.2-linux-amd64](https://github.com/linkerd/linkerd2/releases/download/edge-26.11.2/linkerd2-cli-edge-26.11.2-linux-amd64) | 87.0 MiB | `native/linux/x64` |
+| [linkerd2-cli-edge-26.11.2-linux-arm64](https://github.com/linkerd/linkerd2/releases/download/edge-26.11.2/linkerd2-cli-edge-26.11.2-linux-arm64) | 81.6 MiB | `native/linux/arm64` |
+| [linkerd2-cli-edge-26.11.2-windows.exe](https://github.com/linkerd/linkerd2/releases/download/edge-26.11.2/linkerd2-cli-edge-26.11.2-windows.exe) | 89.1 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -84,4 +84,4 @@ Install metadata for linkerd2 lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:44:20Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:46:16Z._
