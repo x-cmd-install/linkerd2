@@ -24,16 +24,6 @@ x install linkerd2
 | Rust | 39,635 | 2,024 | 4,039 | 150 |
 | Jsx | 10,425 | 193 | 1,276 | 70 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **8.1 / 10**
-
-评分最低的几项:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/linkerd/linkerd2>
@@ -48,22 +38,22 @@ x install linkerd2
 
 ## 流行度
 
-- **Star**: 11,535 · **Fork**: 1,396 · **开放 issue**: 4,081 · **贡献者**: 397
+- **Star**: 11,537 · **Fork**: 1,397 · **开放 issue**: 4,081 · **贡献者**: 397
 
 ## 累计统计
 
-- **发布数**: 454 · **已合并 PR**: 9348 · **开放 PR**: 62 · **已关闭 issue**: 3889 · **开放 issue**: 192 · **提交数**: 9212
+- **发布数**: 454 · **已合并 PR**: 9348 · **开放 PR**: 63 · **已关闭 issue**: 3890 · **开放 issue**: 191 · **提交数**: 9212
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 3 | 21 | 25 | 3 | 9 | 20 |
-| last60d | 2026-09-17 | 4 | 40 | 51 | 3 | 13 | 52 |
-| 90d | 2026-08-18 | 9 | 105 | 54 | 8 | 21 | 93 |
-| last180d | 2026-05-20 | 19 | 331 | 60 | 16 | 27 | 335 |
-| 360d | 2025-11-21 | 37 | 737 | 62 | 53 | 31 | 738 |
-| last720d | 2024-11-26 | 84 | 1807 | 62 | 141 | 35 | 1820 |
+| 30d | 2026-10-18 | 3 | 21 | 26 | 4 | 8 | 20 |
+| last60d | 2026-09-18 | 4 | 36 | 51 | 4 | 12 | 52 |
+| 90d | 2026-08-19 | 9 | 104 | 55 | 9 | 20 | 93 |
+| last180d | 2026-05-21 | 19 | 328 | 61 | 17 | 26 | 335 |
+| 360d | 2025-11-22 | 37 | 736 | 63 | 54 | 30 | 738 |
+| last720d | 2024-11-27 | 83 | 1805 | 63 | 142 | 34 | 1817 |
 
 ## Release 资产
 
@@ -84,4 +74,4 @@ linkerd2 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T07:42:42Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T08:27:10Z._
