@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 88122882,
       "digest": "sha256:489834f8fe8e0485987560ac5005c1061a71e44127cb872f009356dfbcba7380",
-      "download_count": 111,
+      "download_count": 117,
       "created_at": "2026-11-13T23:50:44Z",
       "updated_at": "2026-11-13T23:50:47Z",
       "browser_download_url": "https://github.com/linkerd/linkerd2/releases/download/edge-26.11.2/linkerd2-cli-edge-26.11.2-darwin-arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 91177122,
       "digest": "sha256:4596473d74406298eb5c0123cf710d2834b726487996a9e8fa8859ccda3b360e",
-      "download_count": 2066,
+      "download_count": 2238,
       "created_at": "2026-11-13T23:50:44Z",
       "updated_at": "2026-11-13T23:50:48Z",
       "browser_download_url": "https://github.com/linkerd/linkerd2/releases/download/edge-26.11.2/linkerd2-cli-edge-26.11.2-linux-amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 85590178,
       "digest": "sha256:d51d5195f46f80f16695f56030f51c09cbf27b49f3eb39b74a885abaddb3411b",
-      "download_count": 728,
+      "download_count": 744,
       "created_at": "2026-11-13T23:50:44Z",
       "updated_at": "2026-11-13T23:50:48Z",
       "browser_download_url": "https://github.com/linkerd/linkerd2/releases/download/edge-26.11.2/linkerd2-cli-edge-26.11.2-linux-arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 93412352,
       "digest": "sha256:487dc6acedc3cab3be6fe51a881647b777dae16e509aec8dd068589b5e85c778",
-      "download_count": 64,
+      "download_count": 66,
       "created_at": "2026-11-13T23:50:44Z",
       "updated_at": "2026-11-13T23:50:48Z",
       "browser_download_url": "https://github.com/linkerd/linkerd2/releases/download/edge-26.11.2/linkerd2-cli-edge-26.11.2-windows.exe"
