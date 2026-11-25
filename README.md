@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `edge-26.11.2` (2026-11-13)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 11,544 · **Forks**: 1,402 · **Open issues**: 4,089 · **Contributors**: 398
+- **Stars**: 11,544 · **Forks**: 1,403 · **Open issues**: 4,089 · **Contributors**: 398
 
 ## Totals (cumulative)
 
-- **Releases**: 454 · **Merged PRs**: 9356 · **Open PRs**: 72 · **Closed issues**: 3894 · **Open issues**: 195 · **Commits**: 9220
+- **Releases**: 454 · **Merged PRs**: 9357 · **Open PRs**: 71 · **Closed issues**: 3894 · **Open issues**: 195 · **Commits**: 9221
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 3 | 21 | 35 | 2 | 13 | 21 |
-| last60d | 2026-09-25 | 4 | 38 | 61 | 4 | 20 | 59 |
-| 90d | 2026-08-26 | 7 | 90 | 64 | 9 | 25 | 98 |
-| last180d | 2026-05-28 | 18 | 316 | 70 | 21 | 30 | 330 |
-| 360d | 2025-11-29 | 36 | 728 | 72 | 58 | 34 | 733 |
-| last720d | 2024-12-04 | 83 | 1793 | 72 | 142 | 38 | 1809 |
+| 30d | 2026-10-26 | 3 | 18 | 35 | 2 | 13 | 22 |
+| last60d | 2026-09-26 | 4 | 39 | 62 | 4 | 20 | 60 |
+| 90d | 2026-08-27 | 7 | 91 | 65 | 9 | 24 | 99 |
+| last180d | 2026-05-29 | 18 | 314 | 69 | 21 | 30 | 331 |
+| 360d | 2025-11-30 | 36 | 729 | 71 | 58 | 34 | 734 |
+| last720d | 2024-12-05 | 83 | 1787 | 71 | 142 | 38 | 1807 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for linkerd2 lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:19:47Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:24:34Z._
