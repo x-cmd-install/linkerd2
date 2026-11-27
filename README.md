@@ -14,12 +14,12 @@ x install linkerd2
 
 ## Code insight
 
-Total: **238,720** lines of code across **1087** files in the top 5 languages.
+Total: **239,034** lines of code across **1090** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 99,129 | 11,475 | 13,612 | 582 |
-| Yaml | 42,634 | 1,166 | 1,525 | 242 |
+| Go | 99,331 | 11,505 | 13,639 | 583 |
+| Yaml | 42,746 | 1,182 | 1,525 | 244 |
 | Json | 42,092 | 0 | 3 | 43 |
 | Rust | 39,635 | 2,024 | 4,039 | 150 |
 | Jsx | 10,425 | 193 | 1,276 | 70 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `edge-26.11.2` (2026-11-13)
-- **Last commit**: 2026-11-25
+- **Last commit**: 2026-11-26
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 11,545 · **Forks**: 1,402 · **Open issues**: 4,089 · **Contributors**: 398
+- **Stars**: 11,546 · **Forks**: 1,402 · **Open issues**: 4,089 · **Contributors**: 399
 
 ## Totals (cumulative)
 
-- **Releases**: 454 · **Merged PRs**: 9357 · **Open PRs**: 72 · **Closed issues**: 3895 · **Open issues**: 194 · **Commits**: 9223
+- **Releases**: 454 · **Merged PRs**: 9359 · **Open PRs**: 71 · **Closed issues**: 3896 · **Open issues**: 193 · **Commits**: 9225
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 3 | 18 | 36 | 3 | 12 | 24 |
-| last60d | 2026-09-27 | 4 | 39 | 63 | 5 | 19 | 62 |
-| 90d | 2026-08-28 | 7 | 90 | 65 | 10 | 21 | 101 |
-| last180d | 2026-05-30 | 16 | 314 | 70 | 22 | 29 | 333 |
-| 360d | 2025-12-01 | 36 | 727 | 72 | 59 | 33 | 736 |
-| last720d | 2024-12-06 | 83 | 1783 | 72 | 143 | 37 | 1806 |
+| 30d | 2026-10-28 | 3 | 19 | 35 | 4 | 11 | 26 |
+| last60d | 2026-09-28 | 4 | 40 | 62 | 6 | 18 | 64 |
+| 90d | 2026-08-29 | 7 | 92 | 64 | 11 | 20 | 103 |
+| last180d | 2026-05-31 | 16 | 312 | 69 | 23 | 28 | 335 |
+| 360d | 2025-12-02 | 36 | 727 | 71 | 60 | 32 | 738 |
+| last720d | 2024-12-07 | 83 | 1785 | 71 | 144 | 36 | 1796 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for linkerd2 lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:56:03Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:03:19Z._
